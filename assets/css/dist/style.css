@@ -1230,7 +1230,7 @@ main {
   margin: -20px; }
 
 .home-members__list__item {
-  width: calc(100% / 3);
+  width: calc(100% / 2);
   padding: 20px; }
 
 .home-members__list__item__img-inner {
