@@ -103,22 +103,22 @@
                         </div>
                     </div>
 
-                    <div class="home-members__list__item">
-                        <div class="home-members__list__item-inner">
-                            <div class="home-members__list__item__img">
-                                <div class="home-members__list__item__img-inner">
-                                    <img src="assets/img/temp/home-members-2.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="home-members__list__item__text">
-                                <h5>Jerome Heelein
-                                    <a href="https://www.linkedin.com/in/jerome-heelein/"><img src="assets/img/icon-linkedin.png" alt=""></a>
-                                </h5>
-                                <br>
-                                <p class="p--20">Jerome has more than 10 years of experience in finance, sustainability and technology. He has developed the operations of several businesses in the hospitality industry and environmental protection in Europe, the US and Brazil.</p>
-                            </div>
-                        </div>
-                    </div>
+<!--                    <div class="home-members__list__item">-->
+<!--                        <div class="home-members__list__item-inner">-->
+<!--                            <div class="home-members__list__item__img">-->
+<!--                                <div class="home-members__list__item__img-inner">-->
+<!--                                    <img src="assets/img/temp/home-members-2.jpg" alt="">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="home-members__list__item__text">-->
+<!--                                <h5>Jerome Heelein-->
+<!--                                    <a href="https://www.linkedin.com/in/jerome-heelein/"><img src="assets/img/icon-linkedin.png" alt=""></a>-->
+<!--                                </h5>-->
+<!--                                <br>-->
+<!--                                <p class="p--20">Jerome has more than 10 years of experience in finance, sustainability and technology. He has developed the operations of several businesses in the hospitality industry and environmental protection in Europe, the US and Brazil.</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
 
 <!--
                     <div class="home-members__list__item">
